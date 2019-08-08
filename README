@@ -4,5 +4,9 @@ I forgot this line
 Old MacDonald had a farm
 Baa Baa Black shhep 
 
+<<<<<<< HEAD
 
 Added this extra line to describe the additional functionality I have just added to the appy.py file
+=======
+Added these lines from the remote repository on github itself.
+>>>>>>> origin/master
