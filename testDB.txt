@@ -1,0 +1,2 @@
+I'm making a change here. In th ecommit for it however I will intentionally forget a file so I can so the commit -amend instructiong
+This is the line I am adding on to included into the already commit changes
